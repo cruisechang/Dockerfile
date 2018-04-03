@@ -1,5 +1,3 @@
-# Dockerfile
-Dockerfiles here.
 
 ### contos-httpd-php
 #### [php72](https://github.com/cruisechang/Dockerfile/blob/master/centos-httpd-php/php72/Dockerfile) 
