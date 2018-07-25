@@ -1,0 +1,2 @@
+docker run -it --rm -v /Users/cruise/go/src:/go/src -w /go/src/oa/liveServer cruisechang/golang:1.10.3-centos7 go build  -v  
+docker run -it --rm -v /Users/cruise/go/src:/go/src -w /go/src/oa/dealerConnector cruisechang/golang:1.10.3-centos7 go build  -v 
